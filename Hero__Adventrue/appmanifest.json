@@ -1,6 +1,6 @@
 ﻿{
-	"name": "SimpleGame",
-	"short_name": "SimpleGame",
+	"name": "HeroAdventrue",
+	"short_name": "HeroAdventrue",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
